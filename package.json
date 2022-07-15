@@ -1,0 +1,12 @@
+{
+  "name": "@hsn/node-worker-pool",
+  "version": "1.0.0",
+  
+  "description": "A library to remove boilerplate of making worker work and just foucus on that task itself.",
+  "author": "Himanshu Singh Negi",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
